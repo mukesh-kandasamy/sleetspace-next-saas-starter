@@ -14,11 +14,11 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with our SaaS</Heading>
+        <CustomOverTitle>Elevate Your Business with Expert Salesforce Consulting</CustomOverTitle>
+        <Heading>Simplify your business processes with our Salesforce-powered SaaS solution.</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        Your premier destination for comprehensive Salesforce consulting services. 
+        We specialize in helping businesses harness the full potential of Salesforce to drive growth, streamline operations, and enhance customer experiences.
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
