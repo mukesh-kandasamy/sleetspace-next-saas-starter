@@ -70,6 +70,7 @@ export default function Navbar({ items }: NavbarProps) {
         <NextLink href="/" passHref>
           <LogoWrapper>
             <Logo />
+            test
           </LogoWrapper>
         </NextLink>
         <NavItemList>
